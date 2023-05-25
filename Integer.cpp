@@ -1,6 +1,6 @@
 /**
  * @file Integer.cpp
- * @author Connor Dobson & Ariana van Lith
+ * @author Connor Dobson & Ariana van Lith & Hayden Knox
  * @brief The integer class is a new data type that can hold an integer bigger than the typical formats built into C++
  * @version 0.1
  * @date 2022-06-07
